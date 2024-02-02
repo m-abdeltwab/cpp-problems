@@ -1,3 +1,7 @@
-*.vscode
-*.exe
-*.idea
+# PhpStorm
+.idea
+
+# VSCode
+.vscode
+
+.exe
