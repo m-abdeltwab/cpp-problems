@@ -7,6 +7,7 @@
 03. [Diamond](03_diamond.cpp)
 04. [Fix errors](04_fix_errors.cpp)
 
+---
 
 ## [02. Data Types and Variables](./02_Data_Types_and_Variables/)
 
@@ -20,6 +21,7 @@
 01. [Range sum](01_range_sum.cpp)
 2.  [Swap](02_swap.cpp)
 
+---
 
 ## [03. Operators](./03_operators)
 
@@ -35,3 +37,35 @@
 
 ### [Hard](./03_operators/03_hard/)
 01. [Years](01_years.cpp)
+
+---
+
+## [04. Selection](./04_Selection/)
+
+### [Easy](./04_Selection/01_Easy/)
+01. [Arithmetic](./04_Selection/01_Easy/01_Arithmetic.cpp)
+02. [Sort 3 Numbers](./04_Selection/01_Easy/02_Sort_3_Numbers.cpp)
+3.  [Constrained Maximum](./04_Selection/01_Easy/03_Constrained_Maximum.cpp)
+4.  [Conditional Count](./04_Selection/01_Easy/04_Conditional_Count.cpp)
+
+
+### [Medium](./04_Selection/02_Medium/)
+01. [Find Maximum up to 10](./04_Selection/02_Medium/01_Find_Maximum_up_to_10.cpp)
+2.   [Find Maximum of 10](./04_Selection/02_Medium/01_Find_the_Maximum_of_10.cpp)
+
+### [Hard](./04_Selection/03_Hard/)
+01. [Intervals](./04_Selection/03_Hard/01_Intervals.cpp)
+02.  [Intersection of Two Intervals](./04_Selection/03_Hard/02_Intersection_of_Two_Intervals.cpp)
+
+---
+
+## [05. Loop](./05_Loops/)
+
+### [While Loop](./05_Loops/01_While_loop/)
+
+#### [Easy](./05_Loops/01_While_loop/01_Easy/)
+01.  [Print Range](./05_Loops/01_While_loop/01_Easy/01_Print_Range.cpp)
+02.  [Line Of Characters](./05_Loops/01_While_loop/01_Easy/02_Line_Of_Characters.cpp)
+3.   [Print left traingle](./05_Loops/01_While_loop/01_Easy/03_Print_left_traingle.cpp)
+4.   [Print face down triangle](./05_Loops/01_While_loop/01_Easy/04_Print_face_down_triangle.cpp)
+
