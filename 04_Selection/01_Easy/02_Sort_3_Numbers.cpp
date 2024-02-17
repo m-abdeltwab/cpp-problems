@@ -3,9 +3,9 @@ using namespace std;
 
 int main(){
 
-    int a, b , c;
-    cin >> a >> b >> c;
-// Way -1
+    // Way -1
+//    int a, b , c;
+//    cin >> a >> b >> c;
 //    if (a < b && b < c ){
 //        cout << a << b << c;
 //    }
@@ -27,23 +27,26 @@ int main(){
 
 
 // Way -2
-    int temp;
-    if (a > b){
+    int a, b, c, temp;
+    cin >> a >> b >> c;
+    if (b < a){
         temp = b;
         b = a;
         a = temp;
     }
-    if(b > c){
-        temp = c;
-        c = b;
-        b = temp;
-    }
-    if(a > c){
-        temp = c;
-        c = a;
-        a = temp;
+    if (b > c){
+        temp = b;
+        b = c;
+        c = temp;
+
+        if (b < a){
+            temp = b;
+            b = a;
+            a = temp;
+        }
     }
     cout << a << b << c;
+
 
 
     return 0;
