@@ -6,16 +6,29 @@ int main() {
     int n;
     cin >> n;
 
-    while (n){
-        int start = 10, end = 10;
-        while (start <= end){
-            cout << "*";
-            start--;
+    int row = n;
+    while (row > 0){
+        int column = 2 * n;
+        while (column >= 2 * row){
+            cout <<"*";
+            column--;
         }
         cout <<endl;
-
-        n--;
+        row--;
     }
+
+    while (row > 0){
+        int column = 2 * n;
+        while (column >= 2 * row){
+            cout <<"*";
+            column--;rr
+        }
+        cout <<endl;
+        row--;
+    }
+
+
+
 
 
     return 0;

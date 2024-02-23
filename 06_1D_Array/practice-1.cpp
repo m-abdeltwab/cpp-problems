@@ -3,14 +3,18 @@
 using namespace std;
 
 int main(){
-    int num, max, before_max, arr[200] {};
+
+    int num, max, before_max, arr[200];
+
     cin >> num;
 
+    // Initialize max and before_max to the smallest possible integer value
     max = INT_MIN;
     before_max = INT_MIN;
 
     for(int i = 0; i < num; ++i){
         cin >> arr[i];
+
 
         if(arr[i] > max){
             before_max = max;

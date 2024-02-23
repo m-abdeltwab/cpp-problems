@@ -36,7 +36,7 @@
 - [x] 03. [4th digit](03_4th_digit.cpp)
 
 ### [Hard](./03_operators/03_hard/)
-- [ ] 01. [Years](01_years.cpp)
+- [x] 01. [Years](01_years.cpp)
 
 ---
 
@@ -54,8 +54,8 @@
 - [x] 02. [Find Maximum of 10](./04_Selection/02_Medium/01_Find_the_Maximum_of_10.cpp)
 
 ### [Hard](./04_Selection/03_Hard/)
-- [ ] 01. [Intervals](./04_Selection/03_Hard/01_Intervals.cpp)
-- [ ] 02.  [Intersection of Two Intervals](./04_Selection/03_Hard/02_Intersection_of_Two_Intervals.cpp)
+- [x] 01. [Intervals](./04_Selection/03_Hard/01_Intervals.cpp)
+- [x] 02.  [Intersection of Two Intervals](./04_Selection/03_Hard/02_Intersection_of_Two_Intervals.cpp)
 
 ---
 
@@ -81,8 +81,8 @@
 
 #### [Medium](./05_Loops/02_For_loop/01_Medium/)
 - [x] 01. [Find Special Pairs](./05_Loops/02_For_loop/01_Medium/01_Find_Special_Pairs.cpp)
-- [ ] 02. [Find All Quadruples](./05_Loops/02_For_loop/01_Medium/2_Find_All_Quadruples.cpp)
-- [ ] 03. [Is it Prime](./05_Loops/02_For_loop/01_Medium/3_Is_it_Prime.cpp)
+- [x] 02. [Find All Quadruples](./05_Loops/02_For_loop/01_Medium/2_Find_All_Quadruples.cpp)
+- [x] 03. [Is it Prime](./05_Loops/02_For_loop/01_Medium/3_Is_it_Prime.cpp)
 - [ ] 04. [Print Primes](./05_Loops/02_For_loop/01_Medium/4_Print_Primes.cpp)
 
 ### [Hard](./05_Loops/02_For_loop/02_Hard/)
@@ -105,4 +105,15 @@
 - [ ] [Smallest pair](06_1D_Array/01_EasyToMedium/05_Smallest_pair.cpp)
 
 ### [Medium](./06_1D_Array/02_Medium/)
+Find the Three Minimum Values
+Search for a Number
+Find the Most Frequent Number
+Digit Frequency
+Unique Numbers of an Unordered List
+Sorting Numbers
+
 ### [Hard](./06_1D_Array/03_Hard/)
+Recamán's Sequence
+Fixed Sliding Window
+Josephus Problem
+Count Increasing Subarrays
