@@ -2,19 +2,33 @@
 using namespace std;
 
 int main(){
-    int cases, num, result;
-    cin >> cases;
+    int n;
+    cin >> n;
 
-    while (cases){
-        result = 0;
-        cin >> num;
-        while (num){
-           result+=num;
-            num--;
+
+
+int upper_rows = n;
+while (upper_rows){
+//        Upper Triangle
+
+//         Print Spaces
+        int spaces_1 = 1;
+        while (spaces_1 < upper_rows){
+            cout << " ";
+            spaces_1++;
         }
-        cout << result << endl;
-        cases--;
+
+        int stars = 2 * n;
+        while (stars >= 2 * upper_rows){
+            cout <<"*";
+            stars--;
+        }
+
+        cout << endl;
+        upper_rows--;
     }
+
+
 
 
     return 0;

@@ -71,11 +71,16 @@
 - [x] 05. [Special Average](./05_Loops/01_While_loop/01_Easy/04_Special_average.cpp)
 
 #### [Medium](./05_Loops/01_While_loop/02_Medium/)
-- [ ] 01. [Print Diamond](./05_Loops/01_While_loop/02_Medium/01_Print_diamond.cpp)
+- [x] 01. [Print Diamond](./05_Loops/01_While_loop/02_Medium/01_Print_diamond.cpp)
 - [x] 02. [Special Multiples1](./05_Loops/01_While_loop/02_Medium/02_Special_Multiples1.cpp)
 - [x] 03. [Special Multiples2](./05_Loops/01_While_loop/02_Medium/03_Special_Multiples2.cpp)
 - [x] 04. [Minimum Of Values](./05_Loops/01_While_loop/02_Medium/04_Minimum_of_Values.cpp)
 
+#### [Hard](./05_Loops/01_While_loop/03_Hard/)
+- [ ] 01. [Find NOs](./05_Loops/01_While_loop/03_Hard/01_Find_NOs.cpp)
+- [ ] 02. [Reverse Number](./05_Loops/01_While_loop/03_Hard/02_Reverse_number.cpp)
+- [ ] 03. [Multiplication Table](./05_Loops/01_While_loop/03_Hard/03_Multiplication_table.cpp)
+- [ ] 04. [Special Sum](./05_Loops/01_While_loop/03_Hard/04_Special_Sum.cpp)
 
 ### [For Loop](./05_Loops/02_For_loop/)
 
@@ -105,15 +110,35 @@
 - [ ] [Smallest pair](06_1D_Array/01_EasyToMedium/05_Smallest_pair.cpp)
 
 ### [Medium](./06_1D_Array/02_Medium/)
-Find the Three Minimum Values
-Search for a Number
-Find the Most Frequent Number
-Digit Frequency
-Unique Numbers of an Unordered List
-Sorting Numbers
+- [ ] [Find the Three Minimum Values](./06_1D_Array/02_Medium)
+- [ ] [Search for a Number ](./06_1D_Array/02_Medium/)
+- [ ] [Find the Most Frequent Number ](./06_1D_Array/02_Medium/)
+- [ ] [Digit Frequency ](./06_1D_Array/02_Medium/)
+- [ ] [Unique Numbers of an Unordered List ](./06_1D_Array/02_Medium/)
+- [ ] [Sorting Numbers ](./06_1D_Array/02_Medium/)
 
 ### [Hard](./06_1D_Array/03_Hard/)
 Recamán's Sequence
 Fixed Sliding Window
 Josephus Problem
 Count Increasing Subarrays
+
+---
+
+## [07. Char Arrays](./07_Char_Arrays/)
+
+---
+
+## [08. Multidimensional Arrays](./08_Multidimensional_Arrays/)
+
+---
+
+## [09. Functions](./09_Functions/)
+
+- [x] [Max of 6 numbers](09_Functions/01_Max_of_6_numbers.cpp) 
+- [x] [Reverse string](09_Functions/02_Reverse_string.cpp) 
+- [x] [Calculator](09_Functions/03_Calculator.cpp) 
+- [x] [Is Palindrome Array](09_Functions/04_Is_Palindrome_Array.cpp) 
+- [x] [Set powers](09_Functions/05_Set-powers.cpp) 
+- [ ] [Get nth prime](09_Functions/06_Get_nth-prime.cpp) 
+- [ ] [Replace substring](09_Functions/07_Replace_substring.cpp) 

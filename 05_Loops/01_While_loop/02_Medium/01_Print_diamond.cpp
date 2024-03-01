@@ -6,28 +6,48 @@ int main() {
     int n;
     cin >> n;
 
-    int row = n;
-    while (row > 0){
-        int column = 2 * n;
-        while (column >= 2 * row){
-            cout <<"*";
-            column--;
+    int upper_rows = n;
+    while (upper_rows){
+//        Upper Triangle
+
+//         Print Spaces
+        int spaces_1 = 1;
+        while (spaces_1 < upper_rows){
+            cout << " ";
+            spaces_1++;
         }
-        cout <<endl;
-        row--;
+
+        int stars = 2 * n;
+        while (stars >= 2 * upper_rows){
+            cout <<"*";
+            stars--;
+        }
+
+        cout << endl;
+        upper_rows--;
     }
 
-    while (row > 0){
-        int column = 2 * n;
-        while (column >= 2 * row){
-            cout <<"*";
-            column--;rr
+
+    int lower_rows = n;
+    while (lower_rows){
+//        Upper Triangle
+
+        // Print Spaces
+        int spaces = n;
+        while (spaces > lower_rows){
+            cout << " ";
+            spaces--;
         }
-        cout <<endl;
-        row--;
+
+        int stars = 1;
+        while (stars < 2 * lower_rows){
+            cout <<"*";
+            stars++;
+        }
+
+        cout << endl;
+        lower_rows--;
     }
-
-
 
 
 
