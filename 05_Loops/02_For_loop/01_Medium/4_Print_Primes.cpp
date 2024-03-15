@@ -3,22 +3,22 @@ using namespace std;
 
 
 int main(){
-  int n;
-  cin >> n;
+    int n;
+    cin >> n;
 
-  bool is_prime = true;
+    for(int i = 2 ;i <= n; ++i){
 
-  for(int num = 2; num < n; ++num){
-      for(int i = 2; i < num; ++i){
-          if(num % i == 0){
-              cout <<i;
-          }
-      }
+        for (int j = 2; j <= i; ++j) {
+            if(i != j && i % j == 0){
+                break;
+            }else{
+                cout <<i;
 
+            }
 
-  }
+        }
 
-
+    }
 
 
     return 0;

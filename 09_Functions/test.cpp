@@ -2,16 +2,27 @@
 using namespace std;
 
 
-int add(int x, int y){
-    return x + y;
+int sequence(int num){
+    cout << num << " ";
+    if (num == 1){
+
+        return 0;
+    }
+    if(num % 2 == 0){
+        sequence(num /2);
+
+    }
+    if(num % 2 != 0){
+        sequence(3 * num + 1);
+    }
+
 }
 
-double add(double x, double y){
-    return x + y;
-}
 
 int main() {
-    cout << add(3.2, 4.2);
+    int n;
+    cin >> n;
+    cout << sequence(n);
 
     return 0;
 }

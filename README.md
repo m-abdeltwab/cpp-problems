@@ -77,10 +77,10 @@
 - [x] 04. [Minimum Of Values](./05_Loops/01_While_loop/02_Medium/04_Minimum_of_Values.cpp)
 
 #### [Hard](./05_Loops/01_While_loop/03_Hard/)
-- [ ] 01. [Find NOs](./05_Loops/01_While_loop/03_Hard/01_Find_NOs.cpp)
-- [ ] 02. [Reverse Number](./05_Loops/01_While_loop/03_Hard/02_Reverse_number.cpp)
-- [ ] 03. [Multiplication Table](./05_Loops/01_While_loop/03_Hard/03_Multiplication_table.cpp)
-- [ ] 04. [Special Sum](./05_Loops/01_While_loop/03_Hard/04_Special_Sum.cpp)
+- [x] 01. [Find NOs](./05_Loops/01_While_loop/03_Hard/01_Find_NOs.cpp)
+- [x] 02. [Reverse Number](./05_Loops/01_While_loop/03_Hard/02_Reverse_number.cpp)
+- [x] 03. [Multiplication Table](./05_Loops/01_While_loop/03_Hard/03_Multiplication_table.cpp)
+- [x] 04. [Special Sum](./05_Loops/01_While_loop/03_Hard/04_Special_Sum.cpp)
 
 ### [For Loop](./05_Loops/02_For_loop/)
 
@@ -127,10 +127,41 @@ Count Increasing Subarrays
 
 ## [07. Char Arrays](./07_Char_Arrays/)
 
+### [Easy To Medium](07_Char_Arrays/01_EasyToMedium)
+
+- [ ] [01_Is_Prefix](07_Char_Arrays/01_EasyToMedium/01_Is_Prefix.cpp) 
+- [ ] [02_Is_Suffix](07_Char_Arrays/01_EasyToMedium/02_Is_Suffix.cpp) 
+- [ ] [03_Is_Substring](07_Char_Arrays/01_EasyToMedium/03_Is_Substring.cpp) 
+- [ ] [04_Is_Subsequence](07_Char_Arrays/01_EasyToMedium/04_Is_Subsequence.cpp) 
+- [ ] [05_Convert_to_number](07_Char_Arrays/01_EasyToMedium/05_Convert_to_number.cpp) 
+- [ ] [06_Grouping](07_Char_Arrays/01_EasyToMedium/06_Grouping.cpp)
+
+
+### [Medium](07_Char_Arrays/02_Medium)
+
+- [ ] [01. Compressing](07_Char_Arrays/02_Medium/01_Compressing.cpp) 
+- [ ] [02. Compare_strings](07_Char_Arrays/02_Medium/02_Compare_strings.cpp) 
+- [ ] [03. Add_5555](07_Char_Arrays/02_Medium/03_Add_5555.cp)
+
+### [Application](07_Char_Arrays/03_Application/)
+- [ ] [Employee Program](07_Char_Arrays/03_Application/Employee_Program.cpp)
 ---
 
 ## [08. Multidimensional Arrays](./08_Multidimensional_Arrays/)
 
+### [Easy](08_Multidimensional_Arrays/01_Easy) 
+- [ ] [01. Smaller_row](08_Multidimensional_Arrays/01_Easy/01_Smaller_row.cpp) 
+- [ ] [02. Triangular_matrix](08_Multidimensional_Arrays/01_Easy/02_Triangular_matrix.cpp) 
+- [ ] [03. Transpose](08_Multidimensional_Arrays/01_Easy/03_Transpose.cpp) 
+
+### [Medium To Hard](08_Multidimensional_Arrays/02_MediumToHard) 
+- [ ] [01. How_many_primes](08_Multidimensional_Arrays/02_MediumToHard/01_How_many_primes.cpp) 
+- [ ] [02. Find_mountains](08_Multidimensional_Arrays/02_MediumToHard/02_Find_mountains.cpp) 
+- [ ] [03. Active_Robot](08_Multidimensional_Arrays/02_MediumToHard/03_Active_Robot.cpp) 
+- [ ] [04. Flatten_3D_Array](08_Multidimensional_Arrays/02_MediumToHard/04_Flatten_3D_Array.cpp) 
+
+### [Hard](08_Multidimensional_Arrays/03_Hard) 
+- [ ] [Tic Tac Toe](08_Multidimensional_Arrays/03_Hard/Tic_Tac_Toe.cpp)
 ---
 
 ## [09. Functions](./09_Functions/)
@@ -142,3 +173,31 @@ Count Increasing Subarrays
 - [x] [Set powers](09_Functions/05_Set-powers.cpp) 
 - [ ] [Get nth prime](09_Functions/06_Get_nth-prime.cpp) 
 - [ ] [Replace substring](09_Functions/07_Replace_substring.cpp) 
+
+---
+## [10. Recursive Functions](./10_Recursive_Functions/)
+- [x] [01. Length_of_3n+1](10_Recursive_Functions/01_Length_of_3n+1.cpp) 
+- [x] [02. Power function](10_Recursive_Functions/02_Power_function.cpp) 
+- [x] [03. Array maximum](10_Recursive_Functions/03_Array_maximum.cpp) 
+- [x] [04. Array sum](10_Recursive_Functions/04_Array_sum.cpp) 
+- [x] [05. Array average](10_Recursive_Functions/05_Array_average.cpp) 
+- [x] [06. Array Increment](10_Recursive_Functions/6_Array_Increment.cpp) 
+- [x] [07. Array Accumulation](10_Recursive_Functions/07_Array_Accumulation.cpp) 
+- [x] [08. Left-Max](10_Recursive_Functions/08.Left-Max.cpp) 
+- [ ] [09. Right-Max](10_Recursive_Functions/09_Right-Max.cpp) 
+- [x] [10. Suffix_Sum](10_Recursive_Functions/10_Suffix_Sum.cpp) 
+- [x] [11. Prefix_Sum](10_Recursive_Functions/11_Prefix_Sum.cpp) 
+- [ ] [12. Is_Palindrome](10_Recursive_Functions/12_Is_Palindrome.cpp) 
+- [ ] [13. Is_prefix](10_Recursive_Functions/13_Is_prefix.cpp) 
+- [ ] [14. Trace](10_Recursive_Functions/14_Trace.cpp) 
+- [ ] [15. Count_primes](10_Recursive_Functions/15_Count_primes.cpp) 
+- [ ] [16. Grid Sum.](10_Recursive_Functions/16_Grid_Sum.cpp) 
+- [ ] [17. Fibonacci](10_Recursive_Functions/17_Fibonacci.cpp)
+
+
+
+
+
+
+
+
